@@ -1,0 +1,5 @@
+@author : Patrice PLOUVIN
+
+Compile et execution:
+gcc -o nom_fichier.c
+./exec > image.ppm
