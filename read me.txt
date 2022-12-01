@@ -2,4 +2,4 @@
 
 Compile et execution:
 gcc -o nom_fichier.c
-./exec > image.ppm
+./exec > img/image.ppm
